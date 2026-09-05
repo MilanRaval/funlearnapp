@@ -8,7 +8,7 @@
 PRODUCT_NAME = FunAtomy
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.funlearnapp
+PRODUCT_BUNDLE_IDENTIFIER = com.neel.funatomy
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2026 com.example. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2026 com.neel. All rights reserved.
