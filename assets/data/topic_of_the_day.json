@@ -1,12 +1,37 @@
 [
   {
-    "id": 1,
-    "topicDescription": "The Human Heart is a muscular organ that pumps blood through the circulatory system.",
-    "topicImagePath": "assets/images/heart.png"
-  },
-  {
     "id": 2,
     "topicDescription": "DNA is the molecule that carries genetic information for the development and functioning of an organism.",
-    "topicImagePath": "assets/images/dna.png"
+    "topicImagePath": "assets/images/dnaCarriesGeneticInfo.png"
+  },
+  {
+    "id": 3,
+    "topicDescription": "The cell membrane isn't a stiff, solid wall—it is actually a fluid, moving sea.Biologists refer to this behavior as the Fluid Mosaic Model. The membrane is made up of a double layer of lipids (fats) that have the consistency of vegetable oil at body temperature. Protein molecules float around in this oily layer like rafts on an ocean, constantly shifting, moving, and changing positions to help the cell communicate and transport nutrients",
+    "topicImagePath": "assets/images/cellMembrane.png"
+  },
+  {
+    "id": 4,
+    "topicDescription": "Your elastic connective tissue—especially the elastin fibers in your skin, lungs, and blood vessels—can stretch up to 1.5× their resting length and then snap back perfectly. It’s one of the reasons your lungs expand so smoothly when you breathe and why your arteries can handle each pulse of blood.",
+    "topicImagePath": "assets/images/elasticBodyTissue.png"
+  },
+  {
+    "id": 5,
+    "topicDescription": " The skin is composed of two main layers: the epidermis, made of closely packed epithelial cells, and the \ndermis, made of dense, irregular connective tissue that houses blood vessels, hair follicles, sweat glands, and other structures. Beneath the \ndermis lies the hypodermis, which is composed mainly of loose connective and fatty tissues.",
+    "topicImagePath": "assets/images/skinLayers.png"
+  },
+  {
+    "id": 6,
+    "topicDescription" : "The femur, commonly known as the thigh bone, is the biggest, longest, and strongest bone in the human body.It spans from your hip joint down to your knee joint. Because it supports most of your upper body weight and absorbs the impact of activities like jumping or running, it is incredibly resilient. In fact, the femur is strong enough to resist forces up to 30 times the weight of an adult human",
+    "topicImagePath": "assets/images/femurBiggestBone.png"
+  },
+  {
+    "id": 12,
+    "topicDescription": "The spinal cord isn’t just a message relay — it contains neural circuits capable of making decisions without the brain.\nThese are called central pattern generators, and they can coordinate rhythmic actions like walking.\nEven if the brain is temporarily unable to send commands, the spinal cord can still produce patterned movement on its own",
+    "topicImagePath": "assets/images/eightysixBillionNuerons.png"
+  },
+  {
+    "id": 20,
+    "topicDescription": "Your heart creates enough pressure to squirt blood over 30 feet — roughly the length of a school bus.\nThat pressure comes from the left ventricle, the chamber responsible for pumping oxygen‑rich blood to your entire body. It’s the strongest muscle you have, working nonstop from before birth until your final moment.",
+    "topicImagePath": "assets/images/heartSqirtBlood30ft.png"
   }
 ]

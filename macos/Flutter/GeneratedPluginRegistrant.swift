@@ -5,8 +5,8 @@
 import FlutterMacOS
 import Foundation
 
-import sqlite3_flutter_libs
+import flutter_local_notifications
 
 func RegisterGeneratedPlugins(registry: FlutterPluginRegistry) {
-  Sqlite3FlutterLibsPlugin.register(with: registry.registrar(forPlugin: "Sqlite3FlutterLibsPlugin"))
+  FlutterLocalNotificationsPlugin.register(with: registry.registrar(forPlugin: "FlutterLocalNotificationsPlugin"))
 }

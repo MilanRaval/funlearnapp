@@ -1,4 +1,4 @@
-# funlearnapp
+# FunAtomy
 
 A new Flutter project.
 

@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "funlearnapp" "\0"
+            VALUE "FileDescription", "FunAtomy" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "funlearnapp" "\0"
+            VALUE "InternalName", "FunAtomy" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "funlearnapp.exe" "\0"
-            VALUE "ProductName", "funlearnapp" "\0"
+            VALUE "OriginalFilename", "FunAtomy.exe" "\0"
+            VALUE "ProductName", "FunAtomy" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

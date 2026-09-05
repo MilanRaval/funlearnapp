@@ -1,6 +1,6 @@
 {
-    "name": "funlearnapp",
-    "short_name": "funlearnapp",
+    "name": "FunAtomy",
+    "short_name": "FunAtomy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
